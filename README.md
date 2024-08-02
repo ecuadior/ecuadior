@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ecuadior
+- 👋 Hi, I’m @ecuadior, Jonathan Guaman
 - 👀 I’m a college students in New York Institue of Technology
 - 🌱 I’m currently learning Electrical & Computer Engineering, B.S. at NYIT
 - 📫 How to reach me jonathangua154@gmail.com 
